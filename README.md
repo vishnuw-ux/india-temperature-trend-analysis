@@ -1,29 +1,46 @@
 # India Temperature Trend Analysis (2015–2024)
 
 ## Overview
-This project analyzes temperature data across India from 2015 to 2024 to examine seasonal patterns and long-term climate trends.  
-The analysis was conducted using Google Sheets for data cleaning, trend evaluation, and visualization.
+
+This project analyzes temperature trends across India from 2015 to 2024 to examine long-term climate patterns and seasonal variations. The objective of the analysis is to evaluate how temperature values change across years and identify recurring seasonal patterns using structured data visualization.
+
+The analysis was conducted using Google Sheets for dataset structuring, cleaning, and visualization.
+
+---
 
 ## Dataset
-The dataset contains yearly temperature observations used to evaluate long-term trends and seasonal variability across India.
+
+The dataset contains temperature observations used to evaluate climate patterns across India. The data was structured and organized to enable trend analysis and examination of seasonal variability.
+
+Key attributes in the dataset include:
+
+* Year
+* Temperature observations
+* Seasonal patterns
+* Annual averages
+
+---
 
 ## Tools Used
-- Google Sheets
-- Data Cleaning
-- Data Visualization
 
-## Key Visualizations
+* Google Sheets – Data cleaning, structuring, and visualization
+* Data Analysis Techniques – Trend analysis and seasonal pattern evaluation
 
-### Temperature Trend (2015–2024)
-![Temperature Trend](temperature_trend.png)
+---
 
-### Seasonal Temperature Pattern
-![Seasonal Pattern](seasonal_pattern.png)
+## Analysis Performed
+
+The following analytical steps were carried out during the project:
+
+* Dataset cleaning and structuring
+* Examination of long-term temperature trends
+* Analysis of seasonal temperature patterns
+* Visualization of annual and seasonal variations
+
+---
 
 ## Key Insights
 
-- Temperature patterns show gradual variation across years.
-- Seasonal peaks occur during summer months.
-- Certain years show higher variability indicating potential climate anomalies.
-
-## Repository Structure
+* Temperature values show variation across the analyzed years.
+* Seasonal patterns remain consistent with higher temperatures during summer months.
+* Some years show higher variability in temperature patterns.
